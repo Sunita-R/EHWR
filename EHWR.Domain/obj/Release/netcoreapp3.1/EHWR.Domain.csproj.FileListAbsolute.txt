@@ -1,0 +1,9 @@
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\bin\Release\netcoreapp3.1\EHWR.Domain.deps.json
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\bin\Release\netcoreapp3.1\EHWR.Domain.dll
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\bin\Release\netcoreapp3.1\EHWR.Domain.pdb
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\obj\Release\netcoreapp3.1\EHWR.Domain.csprojAssemblyReference.cache
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\obj\Release\netcoreapp3.1\EHWR.Domain.AssemblyInfoInputs.cache
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\obj\Release\netcoreapp3.1\EHWR.Domain.AssemblyInfo.cs
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\obj\Release\netcoreapp3.1\EHWR.Domain.csproj.CoreCompileInputs.cache
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\obj\Release\netcoreapp3.1\EHWR.Domain.dll
+C:\SunitaRajput\Official\Architecture\EHWR.Domain\obj\Release\netcoreapp3.1\EHWR.Domain.pdb

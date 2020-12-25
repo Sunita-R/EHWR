@@ -1,0 +1,12 @@
+C:\SunitaRajput\Official\Architecture\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\SunitaRajput\Official\Architecture\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\SunitaRajput\Official\Architecture\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\SunitaRajput\Official\Architecture\Repository\bin\Release\netcoreapp3.1\EHWR.Domain.dll
+C:\SunitaRajput\Official\Architecture\Repository\bin\Release\netcoreapp3.1\EHWR.Domain.pdb
+C:\SunitaRajput\Official\Architecture\Repository\obj\Release\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\SunitaRajput\Official\Architecture\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\SunitaRajput\Official\Architecture\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\SunitaRajput\Official\Architecture\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\SunitaRajput\Official\Architecture\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\SunitaRajput\Official\Architecture\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\SunitaRajput\Official\Architecture\Repository\obj\Release\netcoreapp3.1\Repository.pdb

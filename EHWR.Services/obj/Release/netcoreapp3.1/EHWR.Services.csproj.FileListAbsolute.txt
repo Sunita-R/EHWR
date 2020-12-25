@@ -1,0 +1,14 @@
+C:\SunitaRajput\Official\Architecture\EHWR.Services\bin\Release\netcoreapp3.1\EHWR.Services.deps.json
+C:\SunitaRajput\Official\Architecture\EHWR.Services\bin\Release\netcoreapp3.1\EHWR.Services.dll
+C:\SunitaRajput\Official\Architecture\EHWR.Services\bin\Release\netcoreapp3.1\EHWR.Services.pdb
+C:\SunitaRajput\Official\Architecture\EHWR.Services\bin\Release\netcoreapp3.1\EHWR.Domain.dll
+C:\SunitaRajput\Official\Architecture\EHWR.Services\bin\Release\netcoreapp3.1\Repository.dll
+C:\SunitaRajput\Official\Architecture\EHWR.Services\bin\Release\netcoreapp3.1\EHWR.Domain.pdb
+C:\SunitaRajput\Official\Architecture\EHWR.Services\bin\Release\netcoreapp3.1\Repository.pdb
+C:\SunitaRajput\Official\Architecture\EHWR.Services\obj\Release\netcoreapp3.1\EHWR.Services.csprojAssemblyReference.cache
+C:\SunitaRajput\Official\Architecture\EHWR.Services\obj\Release\netcoreapp3.1\EHWR.Services.AssemblyInfoInputs.cache
+C:\SunitaRajput\Official\Architecture\EHWR.Services\obj\Release\netcoreapp3.1\EHWR.Services.AssemblyInfo.cs
+C:\SunitaRajput\Official\Architecture\EHWR.Services\obj\Release\netcoreapp3.1\EHWR.Services.csproj.CoreCompileInputs.cache
+C:\SunitaRajput\Official\Architecture\EHWR.Services\obj\Release\netcoreapp3.1\EHWR.Services.csproj.CopyComplete
+C:\SunitaRajput\Official\Architecture\EHWR.Services\obj\Release\netcoreapp3.1\EHWR.Services.dll
+C:\SunitaRajput\Official\Architecture\EHWR.Services\obj\Release\netcoreapp3.1\EHWR.Services.pdb

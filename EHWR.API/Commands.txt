@@ -1,0 +1,6 @@
+﻿dotnet tool install --global dotnet-ef
+
+dotnet ef migrations add MyCommand1
+
+dotnet ef database update
+
